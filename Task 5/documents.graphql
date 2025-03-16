@@ -1,0 +1,8 @@
+query {
+    clientDocuments(id: "some ID") {
+        id
+        type
+        number
+        issueDate
+    }
+}
