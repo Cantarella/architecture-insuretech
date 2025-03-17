@@ -1,0 +1,1 @@
+[Целевая архитектура для задачи 4](https://drive.google.com/file/d/1O0GY3VcvhvsOeKQcDp9lHa7JzVAfGfy1/view?usp=sharing)
