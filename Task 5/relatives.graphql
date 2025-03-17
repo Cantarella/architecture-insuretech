@@ -1,0 +1,7 @@
+query {
+    clientRelatives(id: "some ID") {
+        id
+        name
+        relationType
+    }
+}
